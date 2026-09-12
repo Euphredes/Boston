@@ -1,3 +1,19 @@
+
+
+           WALDEN 
+           ONE HEADQUARTERS 
+
+
+           Publishing 
+
+Licensing: Content in this text file 
+           is licensed under a Creative 
+           Commons Attribution 4.0 
+           International license. 
+Author: Nick Morris. 
+Release: Tuesday, September 8th 2026. 
+Location: Philadelphia, PA. 
+
            ------ 
            Walden 
            ------ 

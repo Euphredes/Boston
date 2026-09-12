@@ -1,5 +1,5 @@
            ------ 
-           Boston 
+           Walden 
            ------ 
 
            Publishing 
@@ -16,11 +16,59 @@ Location: Philadelphia, PA.
            Contents 
            -------- 
 
-Introduction                         - 
-Candles                              II. 
-Walks                                IX. 
-Walden                               XVIII. 
-Triangle                             XXXIV. 
+Introduction 
+Candles 
+Walks 
+Sites 
+Triangle 
+
+           Introduction 
+           ------------ 
+
+           Review 
+
+What is it? 
+Who is it for? 
+Where has it been? 
+Where is it going? 
+How is it done in two parts? 
+
+           Storyline 
+
+Opponent 
+ Maslow's Pyramid 
+Game 
+ Heist 
+Monster 
+ Penal Colony 
+Outward 
+ Physical Adventure 
+Inward 
+ Obstacle Course 
+
+           Approach 
+
+Problem 
+ Slitherlink Knapsack 
+Sets 
+ Destinations 
+ Traps 
+ Items 
+ Storages 
+Solver 
+ Greedy 
+
+           Responsibilities 
+
+Mentally 
+ Silence 
+Physically 
+ Momentum 
+Spiritually 
+ Focus 
+
+           * * * 
+
 
            ***** 
             *** 
